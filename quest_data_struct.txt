@@ -1,0 +1,5 @@
+quest: .tr
+|_ name: .td:nth-child(1) a
+|_ questPoints
+|_ difficulty
+|_ wikiUrl
