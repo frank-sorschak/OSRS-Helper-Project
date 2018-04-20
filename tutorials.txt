@@ -1,0 +1,5 @@
+Scraping data in 3 minutes with Javascript
+https://medium.com/data-scraper-tips-tricks/scraping-data-with-javascript-in-3-minutes-8a7cf8275b31
+
+How To Use node.js, request and cheerio to Set Up Simple Web-Scraping
+https://www.digitalocean.com/community/tutorials/how-to-use-node-js-request-and-cheerio-to-set-up-simple-web-scraping
